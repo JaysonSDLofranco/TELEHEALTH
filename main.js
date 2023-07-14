@@ -1,6 +1,6 @@
 const APP_ID = "14b351414265437a8cf8404cfdf0308c"
 const TOKEN = "007eJxTYKhVc465M+ev0oolApzimm2GW4ts+Y7u/PwotfXZuStnFh5VYDA0STI2NTQxNDEyMzUxNk+0SE6zMDEwSU5LSTMwNrBIDpm8IaUhkJHhgNBFJkYGCATxBRhCUnNSM1ITc0oyDMyB2o0ZGAD7tSOP"
-const CHANNEL = "Main"
+const CHANNEL = "Telehealth071423"
 
 const client = AgoraRTC.createClient({ mode: 'rtc', codec: 'vp8' })
 
