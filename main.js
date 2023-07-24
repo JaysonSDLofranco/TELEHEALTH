@@ -1,5 +1,5 @@
 const APP_ID = "14b351414265437a8cf8404cfdf0308c"
-const TOKEN = "007eJxTYHjybK2OWVnTtHcnAx6o2f1q8vzwnl/v7Y87oUyXn5vInf2lwGBokmRsamhiaGJkZmpibJ5okZxmYWJgkpyWkmZgbGCRLHRqZ0pDICMDo18nE5AEQxCfiyHE1cfVw9XRJ8SDgQEA0FAiSw=="
+const TOKEN = "007eJxTYJg2+5A965Ikhy29tk8XLjj5SEGj/dmay2xGh5s2N/yd+OSwAoOhSZKxqaGJoYmRmamJsXmiRXKahYmBSXJaSpqBsYFF8uKre1MaAhkZVn9SZ2ZkgEAQn4shxNXH1cPV0SfEg4EBALsrIz8="
 const CHANNEL = "TELEHEALTH"
 
 const client = AgoraRTC.createClient({ mode: 'rtc', codec: 'vp8' })
